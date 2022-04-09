@@ -12,10 +12,12 @@ import androidx.compose.runtime.LaunchedEffect
 import androidx.compose.ui.Alignment
 import androidx.compose.ui.ExperimentalComposeUiApi
 import androidx.compose.ui.Modifier
+import androidx.compose.ui.graphics.Color
 import androidx.compose.ui.platform.LocalContext
 import androidx.compose.ui.platform.LocalSoftwareKeyboardController
 import androidx.compose.ui.res.stringResource
 import androidx.compose.ui.text.style.TextAlign
+import androidx.compose.ui.unit.dp
 import androidx.hilt.navigation.compose.hiltViewModel
 import coil.annotation.ExperimentalCoilApi
 import com.bold.core_ui.LocalSpacing
@@ -58,8 +60,9 @@ fun SearchScreen(
             .padding(spacing.spaceMedium)
     ) {
         Text(
-            text = stringResource(id = R.string.add_meal, "Prueba"),
-            style = MaterialTheme.typography.h2
+            text = stringResource(id = R.string.main_title),
+            style = MaterialTheme.typography.h3,
+            color = Color.DarkGray
         )
         Spacer(modifier = Modifier.height(spacing.spaceMedium))
         SearchTextField(
@@ -77,7 +80,7 @@ fun SearchScreen(
             }
         )
         Spacer(modifier = Modifier.height(spacing.spaceMedium))
-        LazyColumn(modifier = Modifier.fillMaxSize()) {
+        LazyColumn(modifier = Modifier.fillMaxSize(), verticalArrangement = Arrangement.spacedBy(4.dp)) {
             items(state.weatherLocations) { location ->
                 WeatherLocationItem(
                     weatherLocatinUiState = location,
