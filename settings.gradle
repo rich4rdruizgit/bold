@@ -13,6 +13,10 @@ dependencyResolutionManagement {
     }
 }
 rootProject.name = "Weather"
+//Modulos Core
 include ':app'
 include ':core'
 include ':core-ui'
+
+//Modulos Logica de negocio
+include ':weather'
