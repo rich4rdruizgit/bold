@@ -3,18 +3,52 @@
   <component name="issues">
     <option name="index">
       <map>
-        <entry key="$PROJECT_DIR$/README.md">
+        <entry key="$PROJECT_DIR$/app/build.gradle.kts">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/base-module.gradle">
           <value>
             <set />
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/build.gradle.kts">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/buildSrc/src/main/java/Modules.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/buildSrc/src/main/java/ProjectConfig.kt">
           <value>
             <set />
           </value>
         </entry>
-        <entry key="$PROJECT_DIR$/settings.gradle">
+        <entry key="$PROJECT_DIR$/compose-module.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/core-ui/build.gradle.kts">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/core/build.gradle.kts">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/weather/weather_data/build.gradle.kts">
           <value>
             <set />
           </value>
