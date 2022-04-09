@@ -88,12 +88,37 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/weather/weather_domain/build.gradle.kts">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/weather/weather_domain/src/main/java/com/bold/weather_domain/di/WeatherDomainModule.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/weather/weather_domain/src/main/java/com/bold/weather_domain/model/LocationItem.kt">
           <value>
             <set />
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/weather/weather_domain/src/main/java/com/bold/weather_domain/repository/WeatherRepository.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/weather/weather_domain/src/main/java/com/bold/weather_domain/use_case/SearchLocation.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/weather/weather_domain/src/main/java/com/bold/weather_domain/use_case/WeatherUseCases.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/weather/weather_presentation/build.gradle.kts">
           <value>
             <set />
           </value>
