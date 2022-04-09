@@ -58,6 +58,16 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/core-ui/src/main/java/com/bold/core_ui/Color.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/core-ui/src/main/java/com/bold/core_ui/Dimensions.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/core-ui/src/main/java/com/bold/core_ui/util/UiEvent.kt">
           <value>
             <set />
@@ -144,6 +154,11 @@
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/weather/weather_presentation/src/main/java/com/bold/weather_presentation/search/SearchEvent.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/weather/weather_presentation/src/main/java/com/bold/weather_presentation/search/SearchScreen.kt">
           <value>
             <set />
           </value>
