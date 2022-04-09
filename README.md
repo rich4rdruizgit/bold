@@ -33,12 +33,6 @@ El desarrollo se segmentó en diferentes etapas:
 
 
 
-Explicando un poco la mecanica...
-
-- En la barra de estados se creó un Widget personalizado para simular el estilo y color de la tipografia de Rick and Morty
-- En el chat los elementos que no tienen el icono azul , significa que en su ESTADO es Dead
-
-
 
 ## ¿Cómo implementaria las funcionalidades faltantes?
 - La funcionalidad pendiente es mostrar el detalle de la ubicación, donde se evidencie la predicción del clima en los siguientes dias.
