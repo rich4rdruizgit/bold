@@ -123,6 +123,11 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/weather/weather_data/src/test/java/com/bold/weather_data/repository/WeatherRepositoryImplTest.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/weather/weather_domain/build.gradle.kts">
           <value>
             <set />
@@ -149,6 +154,16 @@
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/weather/weather_domain/src/main/java/com/bold/weather_domain/use_case/WeatherUseCases.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/weather/weather_domain/src/test/java/com/bold/weather_domain/remote/InvalidWeatherResponse.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/weather/weather_domain/src/test/java/com/bold/weather_domain/remote/ValidWeatherResponse.kt">
           <value>
             <set />
           </value>
