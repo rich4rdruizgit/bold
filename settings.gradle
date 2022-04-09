@@ -20,3 +20,7 @@ include ':core-ui'
 
 //Modulos Logica de negocio
 include ':weather'
+include ':weather:weather_domain'
+include ':weather:weather_data'
+include ':weather:weather_presentation'
+
