@@ -68,6 +68,36 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/weather/weather_data/src/main/java/com/bold/weather_data/di/WeatherDataModule.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/weather/weather_data/src/main/java/com/bold/weather_data/remote/MetaWeatherApi.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/weather/weather_data/src/main/java/com/bold/weather_data/remote/dto/LocationDtoItem.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/weather/weather_data/src/main/java/com/bold/weather_data/repository/WeatherRepositoryImpl.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/weather/weather_domain/src/main/java/com/bold/weather_domain/model/LocationItem.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/weather/weather_domain/src/main/java/com/bold/weather_domain/repository/WeatherRepository.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/../../phiip/CalorieTracker/.idea/sonarIssues.xml">
           <value>
             <set />
