@@ -23,6 +23,11 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/bold/weather/navigation/Route.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/base-module.gradle">
           <value>
             <set />
@@ -178,7 +183,22 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/weather/weather_presentation/src/main/java/com/bold/weather_presentation/search/components/SearchTextField.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/weather/weather_presentation/src/main/java/com/bold/weather_presentation/search/components/WeatherLocationItem.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/../../phiip/CalorieTracker/.idea/sonarIssues.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../phiip/CalorieTracker/core/src/main/res/values/strings.xml">
           <value>
             <set />
           </value>

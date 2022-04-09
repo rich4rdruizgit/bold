@@ -1,4 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="error_something_went_wrong">Algo anda mal, revisa de nuevo</string>
+    <string name="search">Buscar...</string>
+    <string name="no_results">Sin resultados</string>
+    <string name="add_meal">Add %s</string>
 </resources>
