@@ -8,9 +8,10 @@ import dagger.Module
 import dagger.Provides
 import dagger.hilt.InstallIn
 import dagger.hilt.android.scopes.ViewModelScoped
+import dagger.hilt.components.SingletonComponent
 
 @Module
-@InstallIn(ViewModelProvider::class)
+@InstallIn(SingletonComponent::class)
 object WeatherDomainModule {
 
     @ViewModelScoped

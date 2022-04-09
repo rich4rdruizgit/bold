@@ -58,7 +58,27 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/core-ui/src/main/java/com/bold/core_ui/util/UiEvent.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/core-ui/src/main/java/com/bold/core_ui/util/UiText.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/core/build.gradle.kts">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/core/build/generated/res/resValues/debug/values/strings.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/core/src/main/res/values/strings.xml">
           <value>
             <set />
           </value>
@@ -119,6 +139,26 @@
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/weather/weather_presentation/build.gradle.kts">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/weather/weather_presentation/src/main/java/com/bold/weather_presentation/search/SearchEvent.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/weather/weather_presentation/src/main/java/com/bold/weather_presentation/search/SearchState.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/weather/weather_presentation/src/main/java/com/bold/weather_presentation/search/SearchViewModel.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/weather/weather_presentation/src/main/java/com/bold/weather_presentation/search/WeatherLocatinUiState.kt">
           <value>
             <set />
           </value>
