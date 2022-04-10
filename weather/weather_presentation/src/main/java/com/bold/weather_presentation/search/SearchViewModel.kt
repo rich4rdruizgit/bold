@@ -47,8 +47,7 @@ class SearchViewModel @Inject constructor(private val weatherUsesCases: WeatherU
                         weatherLocations = locations.map {
                             WeatherLocatinUiState(it)
                         },
-                        isSearching = false,
-                        query = ""
+                        isSearching = false
                     )
                 }
                 .onFailure {

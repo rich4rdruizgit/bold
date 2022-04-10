@@ -69,6 +69,7 @@ fun SearchScreen(
             text = state.query,
             onValueChange = {
                 viewModel.onEvent(SearchEvent.OnQueryChange(it))
+                viewModel.onEvent(SearchEvent.OnSearch)
             },
             shouldShowHint = state.isHintVisible,
             onSearch = {
